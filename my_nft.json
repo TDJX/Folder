@@ -1,0 +1,74 @@
+{
+  "name": "1",
+  "title": "1",
+  "image": "https://270927.selcdn.ru/ducks/0277c7ba-058c-4809-aaa6-c09fa17a63f6.png",
+  "attributes": [
+      {
+          "trait_type": "background",
+          "value": "1"
+      },
+      {
+          "trait_type": "entourage_background",
+          "value": "Default"
+      },
+      {
+          "trait_type": "body_shape",
+          "value": "Default"
+      },
+      {
+          "trait_type": "pattern",
+          "value": "empty"
+      },
+      {
+          "trait_type": "plumage",
+          "value": "quail"
+      },
+      {
+          "trait_type": "paws ",
+          "value": "winter"
+      },
+      {
+          "trait_type": "body_color",
+          "value": "body_color"
+      },
+      {
+          "trait_type": "hairstyle",
+          "value": "guy"
+      },
+      {
+          "trait_type": "eye_color ",
+          "value": "eye_color "
+      },
+      {
+          "trait_type": "eye_shape",
+          "value": "angryboy"
+      },
+      {
+          "trait_type": "element_background ",
+          "value": "Default"
+      },
+      {
+          "trait_type": "wings",
+          "value": "duck"
+      },
+      {
+          "trait_type": "beak",
+          "value": "oops"
+      },
+      {
+          "trait_type": "entourage_foreground",
+          "value": "Default"
+      },
+      {
+          "trait_type": "element_foreground",
+          "value": "Default"
+      },
+      {
+          "trait_type": "TIER",
+          "value": "3"
+      }
+  ],
+  "collectionName": "OpenDucks Presale 1",
+  "description": "",
+  "compiler": "NFT Generator for Figma, https://www.figma.com/community/plugin/1052280914006102970"
+}
